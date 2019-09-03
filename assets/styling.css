@@ -1,23 +1,23 @@
 body {
-    background-color: #72a8ff;
+    background-color: #383838;
 }
 
 .box {
     background-color: #FFF;
-    border-radius: 6px;
+    border-radius: 3px;
     display: block;
     padding: 1rem;
     margin-right: 10px;
     margin-left: 10px;
     margin-bottom: 30px;
-   
+    margin-top: 30px;
 }
 
    
 .skill {
 
     border-radius: 3px;
-    padding: 5px;
+    display: inline-block;
 }
 
 .header {
